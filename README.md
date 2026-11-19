@@ -21,19 +21,19 @@ Animations of Mamu, the Somnus mascot, for the app (480 px wide, 24 frames per s
 
 ## Adult
 
-<table><tr><td align="center"><img src="gif/4-adult-idle.gif" width="160"><br>idle</td><td align="center"><img src="gif/4-adult-fall.gif" width="160"><br>falling asleep</td><td align="center"><img src="gif/4-adult-sleep.gif" width="160"><br>sleeping</td><td align="center"><img src="gif/4-adult-wake.gif" width="160"><br>waking up</td><td align="center"><img src="gif/4-adult-energized.gif" width="160"><br>energized</td></tr></table>
+<table><tr><td align="center"><img src="gif/4-adult-idle.gif" width="160"><br>idle</td><td align="center"><img src="gif/4-adult-fall.gif" width="160"><br>falling asleep</td><td align="center"><img src="gif/4-adult-sleep.gif" width="160"><br>sleeping</td><td align="center"><img src="gif/4-adult-wake.gif" width="160"><br>waking up</td><td align="center"><img src="gif/4-adult-energized.gif" width="160"><br>energized</td><td align="center"><img src="gif/4-adult-sleepy.gif" width="160"><br>sleepy</td></tr></table>
 
 ## Night owl
 
-<table><tr><td align="center"><img src="gif/5-night-owl-idle.gif" width="160"><br>idle</td><td align="center"><img src="gif/5-night-owl-fall.gif" width="160"><br>falling asleep</td><td align="center"><img src="gif/5-night-owl-sleep.gif" width="160"><br>sleeping</td><td align="center"><img src="gif/5-night-owl-wake.gif" width="160"><br>waking up</td><td align="center"><img src="gif/5-night-owl-energized.gif" width="160"><br>energized</td></tr></table>
+<table><tr><td align="center"><img src="gif/5-night-owl-idle.gif" width="160"><br>idle</td><td align="center"><img src="gif/5-night-owl-fall.gif" width="160"><br>falling asleep</td><td align="center"><img src="gif/5-night-owl-sleep.gif" width="160"><br>sleeping</td><td align="center"><img src="gif/5-night-owl-wake.gif" width="160"><br>waking up</td><td align="center"><img src="gif/5-night-owl-energized.gif" width="160"><br>energized</td><td align="center"><img src="gif/5-night-owl-sleepy.gif" width="160"><br>sleepy</td></tr></table>
 
 ## Early bird
 
-<table><tr><td align="center"><img src="gif/5-early-bird-idle.gif" width="160"><br>idle</td><td align="center"><img src="gif/5-early-bird-fall.gif" width="160"><br>falling asleep</td><td align="center"><img src="gif/5-early-bird-sleep.gif" width="160"><br>sleeping</td><td align="center"><img src="gif/5-early-bird-wake.gif" width="160"><br>waking up</td><td align="center"><img src="gif/5-early-bird-energized.gif" width="160"><br>energized</td></tr></table>
+<table><tr><td align="center"><img src="gif/5-early-bird-idle.gif" width="160"><br>idle</td><td align="center"><img src="gif/5-early-bird-fall.gif" width="160"><br>falling asleep</td><td align="center"><img src="gif/5-early-bird-sleep.gif" width="160"><br>sleeping</td><td align="center"><img src="gif/5-early-bird-wake.gif" width="160"><br>waking up</td><td align="center"><img src="gif/5-early-bird-energized.gif" width="160"><br>energized</td><td align="center"><img src="gif/5-early-bird-sleepy.gif" width="160"><br>sleepy</td></tr></table>
 
 ## Upgraded
 
-<table><tr><td align="center"><img src="gif/5-upgraded-idle.gif" width="160"><br>idle</td><td align="center"><img src="gif/5-upgraded-fall.gif" width="160"><br>falling asleep</td><td align="center"><img src="gif/5-upgraded-sleep.gif" width="160"><br>sleeping</td><td align="center"><img src="gif/5-upgraded-wake.gif" width="160"><br>waking up</td><td align="center"><img src="gif/5-upgraded-energized.gif" width="160"><br>energized</td></tr></table>
+<table><tr><td align="center"><img src="gif/5-upgraded-idle.gif" width="160"><br>idle</td><td align="center"><img src="gif/5-upgraded-fall.gif" width="160"><br>falling asleep</td><td align="center"><img src="gif/5-upgraded-sleep.gif" width="160"><br>sleeping</td><td align="center"><img src="gif/5-upgraded-wake.gif" width="160"><br>waking up</td><td align="center"><img src="gif/5-upgraded-energized.gif" width="160"><br>energized</td><td align="center"><img src="gif/5-upgraded-sleepy.gif" width="160"><br>sleepy</td></tr></table>
 
 ## Stage changes
 
