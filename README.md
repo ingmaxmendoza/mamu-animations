@@ -13,11 +13,11 @@ Animations of Mamu, the Somnus mascot, for the app (480 px wide, 24 frames per s
 
 ## Baby
 
-<table><tr><td align="center"><img src="gif/2-baby-idle.gif" width="160"><br>idle</td><td align="center"><img src="gif/2-baby-fall.gif" width="160"><br>falling asleep</td><td align="center"><img src="gif/2-baby-sleep.gif" width="160"><br>sleeping</td><td align="center"><img src="gif/2-baby-wake.gif" width="160"><br>waking up</td></tr></table>
+<table><tr><td align="center"><img src="gif/2-baby-idle.gif" width="160"><br>idle</td><td align="center"><img src="gif/2-baby-fall.gif" width="160"><br>falling asleep</td><td align="center"><img src="gif/2-baby-sleep.gif" width="160"><br>sleeping</td><td align="center"><img src="gif/2-baby-wake.gif" width="160"><br>waking up</td><td align="center"><img src="gif/2-baby-energized.gif" width="160"><br>energized</td><td align="center"><img src="gif/2-baby-sleepy.gif" width="160"><br>sleepy</td></tr></table>
 
 ## Teen
 
-<table><tr><td align="center"><img src="gif/3-teen-idle.gif" width="160"><br>idle</td><td align="center"><img src="gif/3-teen-fall.gif" width="160"><br>falling asleep</td><td align="center"><img src="gif/3-teen-sleep.gif" width="160"><br>sleeping</td><td align="center"><img src="gif/3-teen-wake.gif" width="160"><br>waking up</td></tr></table>
+<table><tr><td align="center"><img src="gif/3-teen-idle.gif" width="160"><br>idle</td><td align="center"><img src="gif/3-teen-fall.gif" width="160"><br>falling asleep</td><td align="center"><img src="gif/3-teen-sleep.gif" width="160"><br>sleeping</td><td align="center"><img src="gif/3-teen-wake.gif" width="160"><br>waking up</td><td align="center"><img src="gif/3-teen-energized.gif" width="160"><br>energized</td><td align="center"><img src="gif/3-teen-sleepy.gif" width="160"><br>sleepy</td></tr></table>
 
 ## Adult
 
